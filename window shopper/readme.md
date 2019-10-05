@@ -1,0 +1,1 @@
+This app helps you know the daily wages of workers per hour . it uses swift testcase . 
